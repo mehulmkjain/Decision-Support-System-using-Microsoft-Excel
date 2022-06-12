@@ -1,0 +1,2 @@
+# Decision-Support-System-using-Microsoft-Excel
+The fundamental objective of this project is to help the decision maker choose a university to pursue a master’s degree within the United States of America. The decision maker or the user will be asked a series of questions, and based on those responses, the DSS (Decision Support System) model will suggest a list of top 5 universities among the list of 50 universities (alternatives).
